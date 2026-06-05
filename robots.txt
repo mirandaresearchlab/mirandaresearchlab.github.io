@@ -1,1 +1,1 @@
-Sitemap: https://mirandaresearchlab.github.io/mirandalab.github.io/sitemap.xml
+Sitemap: https://mirandaresearchlab.github.io/mirandalab/sitemap.xml

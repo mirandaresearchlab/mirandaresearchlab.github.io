@@ -11,6 +11,8 @@ We develop machine learning methods to decode cellular behavior by integrating m
 
 {% capture text %}
 
+From self-supervised learning to flow matching, explore the methods and applications we are developing across our research projects.
+
 {%
   include button.html
   link="projects"
@@ -33,7 +35,7 @@ We develop machine learning methods to decode cellular behavior by integrating m
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our latest papers and preprints.
 
 {%
   include button.html
@@ -57,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The people making it happen.
 
 {%
   include button.html

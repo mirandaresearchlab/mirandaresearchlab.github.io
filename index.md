@@ -27,7 +27,6 @@ We develop machine learning methods to decode cellular behavior by integrating m
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
   style="bare"
   text=text
 %}
@@ -52,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="research"
   title="Our Publications"
+  flip=true
   text=text
 %}
 

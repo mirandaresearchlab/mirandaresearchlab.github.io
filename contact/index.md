@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="miranda.researchlab@gmail.com"
+  link="miranda.researchlab@gmail.com"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+#{%
+#  include button.html
+#  type="phone"
+#  text="(555) 867-5309"
+#  link="+1-555-867-5309"
+#%}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/SciLifeLab/@59.350457,18.0234315,17z/data=!3m1!4b1!4m6!3m5!1s0x465f9d9c044c1fe5:0xfff6f935131557c1!8m2!3d59.350457!4d18.0234315!16s%2Fm%2F0gttbz2?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}

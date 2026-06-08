@@ -1,28 +1,28 @@
 - id: custom:multicenter-morphometric-analysis-stratum-corneum-2026
   title: "Multicenter Morphometric Analysis of Stratum Corneum Nanotexture for Skin Barrier Assessment"
   authors:
-  - Jen-Hung Wang
-  - Chia-Yu Chu
-  - Felipe Colombelli
-  - Ching-Wen Du
-  - Maria Oberländer Christensen
-  - Jorge Pereda
-  - Ivone Jakasa
-  - Sanja Kezic
-  - Jacob Pontoppidan Thyssen
-  - Edwin Hwu
-  - Gisele Miranda
+    - Jen-Hung Wang
+    - Chia-Yu Chu
+    - Felipe Colombelli
+    - Ching-Wen Du
+    - Maria Oberländer Christensen
+    - Jorge Pereda
+    - Ivone Jakasa
+    - Sanja Kezic
+    - Jacob Pontoppidan Thyssen
+    - Edwin Hwu
+    - Gisele Miranda
   publisher: "Medical Imaging with Deep Learning (MIDL 2026) Validation Papers."
   date: 2026-04-14
   description: A multicenter study investigating quantitative morphometric analysis of stratum corneum nanotexture as a biomarker for skin barrier function. The work evaluates the reproducibility and clinical utility of image-based
   measurements across multiple centers and cohorts.
   tags:
-  - medical imaging
-  - morphometry
-  - machine learning
+    - medical imaging
+    - morphometry
+    - machine learning
   buttons:
-  - type: website
-    link: https://openreview.net/forum?id=IiwDSw6EeN
+    - type: website
+      link: https://openreview.net/forum?id=IiwDSw6EeN
   repo: https://github.com/mirandaresearchlab/SCN-SAM
   
 #- id: doi:10.1038/s44320-026-00197-7

@@ -28,7 +28,7 @@
       link: https://openreview.net/forum?id=IiwDSw6EeN
   repo: https://github.com/mirandaresearchlab/SCN-SAM
   
-#- id: doi:10.1038/s44320-026-00197-7
+- id: doi:10.1038/s44320-026-00197-7
   #image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
 #- id: doi:10.1371/journal.pcbi.1007128

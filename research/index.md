@@ -7,9 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+How can artificial intelligence help us understand living systems?
 
+At our lab, we develop machine learning approaches that integrate imaging and omics data to uncover the principles governing cellular behavior. Our research spans image-based profiling, multimodal learning, computational biology, and biomedical AI, with applications ranging from fundamental biology to disease diagnosis and therapeutic discovery.
+
+{% comment %}
 {% include section.html %}
 
 ## Highlighted
@@ -17,6 +19,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+{% endcomment %}
 
 ## All
 

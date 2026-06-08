@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-<div style="text-align: center; font-style: italic; font-weight: 600; color: #666; margin: 2rem 0;">
+<div style="text-align: center; font-style: italic; color: #666; margin: 2rem 0;">
 How can artificial intelligence help us understand living systems?
 </div>
 

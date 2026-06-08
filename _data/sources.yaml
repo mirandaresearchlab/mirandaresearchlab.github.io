@@ -30,12 +30,15 @@
   repo: mirandaresearchlab/SCN-SAM
   
 - id: doi:10.1038/s44320-026-00197-7
+  type: paper
   image: /images/icon.png
 
 - id: doi:10.1371/journal.ppat.1012709
+  type: paper
   image: /images/icon.png
 
 - id: doi:10.1016/j.jwpe.2024.105692
+  type: paper
   image: /images/icon.png
 
 #- id: doi:10.1371/journal.pcbi.1007128

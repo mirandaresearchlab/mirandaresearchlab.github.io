@@ -31,7 +31,7 @@
   - machine learning
   buttons:
   - type: website
-    link: https://openreview.net/forum?id=IiwDSw6EeN
+    link: https://github.com/mirandaresearchlab/SCN-SAM
   repo: mirandaresearchlab/SCN-SAM
   plugin: sources.py
   file: sources.yaml
@@ -64,7 +64,7 @@
   date: '2026-03-27'
   link: https://doi.org/hbxfz5
   type: paper
-  image: /images/icon.png
+  image: /images/review.png
   tags:
   - image-based profiling
   - review

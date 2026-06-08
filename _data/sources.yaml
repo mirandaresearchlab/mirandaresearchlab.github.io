@@ -39,7 +39,7 @@
 
 - id: doi:10.1371/journal.ppat.1012709
   type: paper
-  image: /images/icon.png
+  image: /images/epi_network.png
   tags:
     - image analysis
     - computer vision

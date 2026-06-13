@@ -1,6 +1,6 @@
 ---
 title: Digital Futures Demonstrator Project Awarded
-image: images/photo.jpg
+image: images/demonstrator.png
 author: gisele-miranda
 tags: digital-futures, 3D imaging, pathology, AI
 ---

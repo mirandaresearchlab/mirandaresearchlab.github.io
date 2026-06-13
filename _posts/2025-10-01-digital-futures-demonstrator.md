@@ -2,7 +2,7 @@
 title: Digital Futures Demonstrator Project Awarded
 image: images/demonstrator.png
 author: gisele-miranda
-tags: digital-futures, 3D imaging, pathology, AI
+tags: digital-futures, 3D imaging, pathology
 ---
 
 A Digital Futures [Demonstrator](https://www.digitalfutures.kth.se/project/ai-assisted-3d-kidney-pathology/) project has been awarded to Hans Blom and Gisele Miranda.

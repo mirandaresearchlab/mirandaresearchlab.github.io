@@ -74,7 +74,7 @@ The people making it happen.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
